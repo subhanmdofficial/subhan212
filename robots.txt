@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://subhan212.vercel.app/sitemap.xml
